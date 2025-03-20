@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--identificar o tipo de documento, pra ele rodar certo-->
+<html lang="pt-br">
+  <!--definindo a linguagem do site-->
+  <head>
+    <meta charset="UTF-8" />
+    <!--esse comando permite a utilizacao de acentos e simbolos-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--responsividade=ajustar ao tamanho da tela, width=tamanho escala 1.0-100% data tela-->
+    <title>Emanuelly Lopes</title>
+  </head>
+  <body>
+    <h1>Olá Mundo!</h1>
+    <!--Os H ordenam o tamanho do texto e variam de 1 ate 6-->
+    <h2>Olá mundo!</h2>
+    <h3>Olá mundo</h3>
+    <h4>Olá mundo</h4>
+    <h5>Olá mundo</h5>
+    <h6>Olá mundo</h6>
+  <p> What is Lorem Ipsum?</p> Lorem Ipsum is simply dummy text of the printing and
+    typesetting industry.<br> Lorem Ipsum has been the industry's standard dummy
+    text ever since the 1500s, when an unknown printer took a galley of type and
+    scrambled it to make a type specimen book.<br> It has survived not only five
+    centuries, but also the leap into electronic typesetting, remaining
+    essentially unchanged.<br> It was popularised in the 1960s with the release of
+    Letraset sheets containing Lorem Ipsum passages, and more recently with
+    desktop publishing software like Aldus PageMaker including versions of Lorem
+    Ipsum.<br>
+<!--os br servem para configurar os pontos do texto ou seja,quebrar a linha e os p servem para fazer um paragrafo novo -->
+
+<h2>Atividades da semana</h2>
+<li>Atividade de matemática</li>
+<ul>ir para academia</ul>
+  </body>
+</html>
