@@ -7,7 +7,7 @@
     <!--esse comando permite a utilizacao de acentos e simbolos-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!--responsividade=ajustar ao tamanho da tela, width=tamanho escala 1.0-100% data tela-->
-    <title>Emanuelly Lopes</title>
+    <title>Gabriel Andrighetto</title>
   </head>
   <body>
     <h1>Olá Mundo!</h1>
